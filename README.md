@@ -1,7 +1,7 @@
 # Bustours by Niels Jacobs
 JAVA - React crud to add and change bustours
 
-#run project
+# run project
 ## run java code
 ./mvnw spring-boot:run
 
@@ -9,10 +9,10 @@ JAVA - React crud to add and change bustours
 cd app
 yarn start
 
-#TO do
+# To do
 
--security
--login
+- security
+- login
 
-#Bugs
+# Bugs
 edit is not working (cannot get a put request)
